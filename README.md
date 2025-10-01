@@ -24,14 +24,15 @@
 * Go (main focus)
 * C# (OOP, WinForms, Blazor WASM)
 * SQL, HTML/CSS
+* Cybersecurity fundamentals
 
 **Tools & Platforms:**
 
 * Git & GitHub
-* Visual Studio, Vite/React
+* JetBrains GoLang / Rider, Vite/React
 * Azure, Active Directory
 * Docker, Swagger, chi+cors
-* Packet Tracer, Adobe CC
+* Packet Tracer, Adobe CC. Figma
 
 ---
 
